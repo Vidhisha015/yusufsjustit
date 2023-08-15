@@ -11,5 +11,6 @@
 * MySQL <img src="https://github.com/yusufsjustit/yusufsjustit/assets/125282550/55296a62-2cb7-4848-b87d-b05069b25b8f" width="55" height="55">
 
 <h1 style="border:2px solid DodgerBlue;">Lets connect</h1>
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusufsatilmis)
+[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]
 
+![Snake animation](https://github.com/yusufsjustit/yusufsjustit/blob/output/github-contribution-grid-snake.svg)
