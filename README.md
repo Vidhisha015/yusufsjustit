@@ -2,7 +2,7 @@
 I am a Data analyst. I am working with Python libraries. I am also confident with PowerBI, Tableau and MySQL.
 
 <p>*🔭 I’m currently working on a project.
-*🌱 I’m currently learning Azure Data Fundamentals.
+*🌱 I’m currently learning Azureac Data Fundamentals.
   
 *👯 I’m looking to collaborate on Pandas.
 
