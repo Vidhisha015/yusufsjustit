@@ -28,9 +28,18 @@
 
 <div align="center"> <h1 align="center"> 👨 SOCIAL 👩 </h1> </div>
 <b>Lets connect</b>
+<p align="center">
 
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/username)
-[<img alt="Tableau" src="https://img.shields.io/badge/-Tableau-1e376b?style=for-the-badge&logo=tableau&logoColor=white"/>](https://public.tableau.com/app/profile/yusuf1911)
+<a href="https://www.linkedin.com/in/username/">
+  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://public.tableau.com/app/profile/yusuf1911">
+  <img align="center" src="https://img.shields.io/badge/-Tableau-1e376b?style=for-the-badge&logo=tableau&logoColor=white"  width="16%"/>
+</a>
+
 <a href="mailto:yusufs@justit.co.uk">  
   <img align="center" src="https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red" />
 </a>
+
+</p>
