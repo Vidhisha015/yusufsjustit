@@ -35,11 +35,11 @@
 </a>
 
 <a href="https://public.tableau.com/app/profile/yusuf1911">
-  <img align="center" src="https://img.shields.io/badge/-Tableau-1e376b?style=for-the-badge&logo=tableau&logoColor=white"  width="16%"/>
+  <img align="center" src="https://img.shields.io/badge/-Tableau-1e376b?style=for-the-badge&logo=tableau&logoColor=white"  width="10%"/>
 </a>
 
 <a href="mailto:yusufs@justit.co.uk">  
-  <img align="center" src="https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red" />
+  <img align="center" src="https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red" width="10%" />
 </a>
 
 </p>
