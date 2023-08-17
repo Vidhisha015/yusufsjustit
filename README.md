@@ -4,7 +4,7 @@
 <p></p>
 <div align="center"> <h1 align="center"> :nerd_face:	 DATA ANALYSIS TOOLS :nerd_face: </h1> </div>
 
-<b>I have an expreience of using these data analysis tools.<b>
+<b>I have experience of using these data analysis tools.<b>
 
 <p align="center">
 <a href="#" target="_blank"> <img src="https://github.com/yusufsjustit/yusufsjustit/assets/125282550/47d61395-144d-46aa-ae82-58b259cd9b70" alt="Python" height="60"/> </a>
@@ -17,7 +17,7 @@
 
 <div align="center"> <h1 align="center"> :slightly_smiling_face: DATA VISUALIZATION :slightly_smiling_face:	</h1> </div>
 
-<b>I have also an expreience of using these data visualization tools.<b>
+<b>I have also experience of using these data visualization tools.<b>
 
 <p align="center">
 <a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" height="50"/> </a>
@@ -35,11 +35,11 @@
 </a>
 
 <a href="https://public.tableau.com/app/profile/yusuf1911">
-  <img align="center" src="https://img.shields.io/badge/-Tableau-1e376b?style=for-the-badge&logo=tableau&logoColor=white"  width="10%"/>
+  <img align="center" src="https://img.shields.io/badge/-Tableau-1e376b?style=for-the-badge&logo=tableau&logoColor=white"  />
 </a>
 
 <a href="mailto:yusufs@justit.co.uk">  
-  <img align="center" src="https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red" width="10%" />
+  <img align="center" src="https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red"  />
 </a>
 
 </p>
